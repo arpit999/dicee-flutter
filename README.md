@@ -5,7 +5,6 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
 - How to change the properties of various widgets.
